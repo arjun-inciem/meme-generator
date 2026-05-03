@@ -1,6 +1,8 @@
 import trollFace from "../assets/images/troll-face.png"
+import { useState } from "react";
 
 export default function Header() {
+
     return (
         <header className="header">
             <img
